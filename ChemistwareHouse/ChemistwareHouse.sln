@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChemistwareHouse", "ChemistwareHouse\ChemistwareHouse.csproj", "{3221A7EB-CCD9-4077-9565-1E7D2E7B9FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chemist.Tests", "Chemist.Tests\Chemist.Tests.csproj", "{79B324A5-DDE0-4F8E-9418-93851DD912ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3221A7EB-CCD9-4077-9565-1E7D2E7B9FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3221A7EB-CCD9-4077-9565-1E7D2E7B9FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3221A7EB-CCD9-4077-9565-1E7D2E7B9FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3221A7EB-CCD9-4077-9565-1E7D2E7B9FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B324A5-DDE0-4F8E-9418-93851DD912ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B324A5-DDE0-4F8E-9418-93851DD912ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B324A5-DDE0-4F8E-9418-93851DD912ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B324A5-DDE0-4F8E-9418-93851DD912ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B002FB76-F4F8-4BEE-B7D9-1549A107740F}
+	EndGlobalSection
+EndGlobal
